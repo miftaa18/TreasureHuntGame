@@ -6,8 +6,6 @@ A mini Java console adventure where you must find the treasure 💎 in 5 moves �
 ## 📝 Assignment Info
 
 📚 This game was part of a **university assignment** for my Java course.  
-✨ It's my very first project on GitHub and I'm super excited to share it!
-
 ---
 
 ## 🎮 Game Logic
