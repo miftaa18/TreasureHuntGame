@@ -3,9 +3,14 @@
 A mini Java console adventure where you must find the treasure 💎 in 5 moves — but beware of hidden mines 💣
 
 ---
+
+## 👩‍💻 Author
+Miftahul Zannat Lamia –2nd Semester [CSE], BRAC University
+
 ## 📝 Assignment Info
 
-📚 This game was part of a **university assignment** for my Java course.  
+📚 This game was part of a **university assignment** for my CSE111 course.
+
 ---
 
 ## 🎮 Game Logic
@@ -24,7 +29,3 @@ A mini Java console adventure where you must find the treasure 💎 in 5 moves �
 ```bash
 javac TreasureHunt2D.java
 java TreasureHunt2D
-
----
-## 👩‍💻 Author
-Miftahul Zannat Lamia – CSE Student, BRAC University
