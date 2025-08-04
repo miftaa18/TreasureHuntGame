@@ -1,17 +1,32 @@
-# 🗺️ 2D Treasure Hunt Game
+# 🗺️💎 Treasure Hunt 2D Game
 
-A console-based Java game where a player must navigate a 5x5 grid to find treasure while avoiding mines.
+A mini Java console adventure where you must find the treasure 💎 in 5 moves — but beware of hidden mines 💣
+
+---
+## 📝 Assignment Info
+
+📚 This game was part of a **university assignment** for my Java course.  
+✨ It's my very first project on GitHub and I'm super excited to share it!
+
+---
 
 ## 🎮 Game Logic
-- `7`: Player's start
-- `10`: Treasure
-- `-1`: Mine
-- `0`: Safe cell
 
-## 💻 How to Run
-1. Copy the code to any Java IDE (IntelliJ, VS Code, etc.)
-2. Compile and run
-3. Follow the instructions in terminal
+- `7` → You (the player) 🧍‍♀️  
+- `10` → Treasure 💎  
+- `-1` → Mine 💣  
+- `0` → Safe path ✅  
+- 🕹️ Moves allowed: **5 only**  
+- 🎯 Controls: `UP`, `DOWN`, `LEFT`, `RIGHT`
 
+---
+
+## ⚙️ How to Run
+
+```bash
+javac TreasureHunt2D.java
+java TreasureHunt2D
+
+---
 ## 👩‍💻 Author
 Miftahul Zannat Lamia – CSE Student, BRAC University
