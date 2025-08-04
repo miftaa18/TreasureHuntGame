@@ -24,6 +24,16 @@ Miftahul Zannat Lamia –2nd Semester [CSE], BRAC University
 
 ---
 
+## 💡 Features
+
+✨ 2D array logic  
+✨ Player movement tracking  
+✨ Input handling  
+✨ Simple map rendering  
+✨ Win/lose conditions
+
+---
+
 ## ⚙️ How to Run
 
 ```bash
